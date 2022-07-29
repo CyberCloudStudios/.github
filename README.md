@@ -1,0 +1,2 @@
+# .github
+Discord bot development
